@@ -54,6 +54,7 @@ class Exercise
         sum += a
       end
     end
+    return sum
   end
 
 end
